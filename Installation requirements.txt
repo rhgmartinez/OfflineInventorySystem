@@ -4,3 +4,8 @@ CRforVS_redist_install_64bit_13_0_21
 
 
 After installing, run FinalDBscript_04052021.sql in MSSQL to create the database.
+To Deploy, change credentials in App.config and SQL.cs and follow the PC's credentials. 
+1. Right click Savy_App, go to properties, check settings if it matches the credentials.
+2. Build should follow x64 platform target
+3. Application framework is .NET Framework 4, Windows application
+4. Before publishing, increment the version and change the publishing folder to the location you wanted. The application should be offline and choose Publish Now.
