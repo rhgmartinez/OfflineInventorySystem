@@ -1,0 +1,86 @@
+C:\Users\Rachel Martinez\Google Drive\Mel\Savy_App\Savy_App\bin\Debug\Savy_App.exe.config
+D:\OfflineInventory-system-repo\Savy_App\bin\Debug\Savy_App.exe.config
+D:\OfflineInventory-system-repo\Savy_App\bin\Debug\Savy_App.exe
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.csprojResolveAssemblyReference.cache
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Brand_List.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Dashboard.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.MDI.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Properties.Resources.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.csproj.GenerateResource.Cache
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.exe
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Brand_Details.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Product_List.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Product_Detail.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Supplier_Detail.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Supplier_List.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Login.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Transaction.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Payment.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.ViewTransactions.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.ReturnProducts.resources
+D:\OfflineInventory-system-repo\Savy_App\bin\Debug\Savy_App.exe.manifest
+D:\OfflineInventory-system-repo\Savy_App\bin\Debug\Savy_App.application
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.exe.manifest
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.application
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Reports.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Product_Stock_In.resources
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.Action_Security.resources
+D:\OfflineInventory-system-repo\Savy_App\bin\Debug\Savy_App.pdb
+D:\OfflineInventory-system-repo\Savy_App\obj\Debug\Savy_App.pdb
+D:\Offline Inventory System - Savy\Savy_App\bin\Debug\Savy_App.exe.config
+D:\Offline Inventory System - Savy\Savy_App\bin\Debug\Savy_App.exe.manifest
+D:\Offline Inventory System - Savy\Savy_App\bin\Debug\Savy_App.application
+D:\Offline Inventory System - Savy\Savy_App\bin\Debug\Savy_App.exe
+D:\Offline Inventory System - Savy\Savy_App\bin\Debug\Savy_App.pdb
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.csprojResolveAssemblyReference.cache
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Action_Security.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Brand_Details.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Brand_List.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Dashboard.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Login.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.MDI.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Payment.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Product_Detail.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Product_List.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Product_Stock_In.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Properties.Resources.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Reports.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.ReturnProducts.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.ViewTransactions.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Supplier_Detail.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Supplier_List.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.Transaction.resources
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.csproj.GenerateResource.Cache
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.exe.manifest
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.application
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.exe
+D:\Offline Inventory System - Savy\Savy_App\obj\Debug\Savy_App.pdb
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Action_Security.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Brand_Details.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Brand_List.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Dashboard.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Login.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.MDI.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Payment.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Product_Detail.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Product_List.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Product_Stock_In.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Properties.Resources.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Reports.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.ReturnProducts.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.ViewTransactions.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Supplier_Detail.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Supplier_List.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.Transaction.resources
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.csproj.GenerateResource.Cache
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.exe
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.pdb
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\bin\Debug\Savy_App.exe.config
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\bin\Debug\Savy_App.exe.manifest
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\bin\Debug\Savy_App.application
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\bin\Debug\Savy_App.exe
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\bin\Debug\Savy_App.pdb
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.exe.manifest
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.application
+C:\Users\Rachel Martinez\Repositories\Savy 2\Savy_App\obj\Debug\Savy_App.ProductStockBalanceList.resources
