@@ -1,3 +1,6 @@
 .NET Framework 3.5 SP1 Web Installer
 2014 SQL Server Express ENU
 CRforVS_redist_install_64bit_13_0_21
+
+
+After installing, run FinalDBscript_04052021.sql in MSSQL to create the database.
